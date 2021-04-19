@@ -22,7 +22,7 @@ Java (Maven):
 </dependency>
 ```
 iOS (добавьте код в ваш Podfile):
-```iOS
+```swift
 platform :ios, '8.0'
 pod "neuro-ios-sdk"
 ```
